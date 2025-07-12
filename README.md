@@ -44,7 +44,6 @@ sudo tail -f /var/log/nginx/access.log
 
 ### 07.Block Suspicious IPs in Nginx
 ```shell
-```shell
 deny 185.218.84.29;
 deny 8.219.57.99;
 deny 93.174.93.12;
